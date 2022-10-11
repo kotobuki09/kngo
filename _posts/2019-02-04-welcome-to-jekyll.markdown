@@ -177,7 +177,7 @@ But after a while they usually\
 They spill from your memory and melt away\
 And then they disappear.
 
-[Chorus]
+[Chorus]\
 Like a subtitle to our story\
 Like a subtitle attached to our story\
 When we think back\
