@@ -194,6 +194,7 @@ I'll stay by your side\
 Thinking about this and that\
 Even when the snow melts
 
+(DeepL translation)
 
 | Lyrics | Translations|
 |---|---|
