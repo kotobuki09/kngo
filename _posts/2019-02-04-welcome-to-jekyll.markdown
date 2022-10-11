@@ -26,7 +26,7 @@ The song that touch my soul - Official Hige Dandism – Subtitle
 理想だけはあるけど　心のどこ探しても\
 まるで見つからないんだよ\
 
-[Pre-Chorus]
+[Pre-Chorus]\
 伝えたい伝わらない　その不条理が今\
 キツく縛りつけるんだよ\
 臆病な僕の　この一挙手一投足を
@@ -47,13 +47,13 @@ The song that touch my soul - Official Hige Dandism – Subtitle
 [Verse 3]\
 薄着でただそばに立ってても\
 不必要に汗をかいてしまう僕なんかもう\
-どうしたって生温くて君を痛めつけてしまうのだろう\
+どうしたって生温くて君を痛めつけてしまうのだろう
 
 [Verse 4]\
 「手のひらが熱いほど心は冷たいんでしょう？」\
 冗談でもそんな残酷なこと言わないでよ\
 別に言えばいいけど　全人生を賭けても\
-ちゃんと覆さしてよ\
+ちゃんと覆さしてよ
 
 [Pre-Chorus]\
 救いたい＝救われたい\
@@ -67,7 +67,7 @@ The song that touch my soul - Official Hige Dandism – Subtitle
 そしてそれを受け取れるのは\
 イルミネーションみたいな\
 不特定多数じゃなくてただ1人\
-君であってほしい\
+君であってほしい
 
 [Bridge]\
 かけた言葉で　割れたヒビを直そうとして\
