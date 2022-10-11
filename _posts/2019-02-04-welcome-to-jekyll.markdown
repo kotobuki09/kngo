@@ -11,7 +11,7 @@ The song that touch my soul - Official Hige Dandism – Subtitle
 [Official髭男dism「Subtitle」歌詞]
 
 [Intro]\
-「凍りついた心には太陽を」\
+凍りついた心には太陽を\
 そして「僕が君にとってそのポジションを」\
 そんなだいぶ傲慢な思い込みを拗らせてたんだよ\
 ごめんね　笑ってやって
@@ -197,7 +197,7 @@ Even when the snow melts
 
 | Lyrics | Translations|
 |---|---|
-| 「凍りついた心には太陽を」 | "I'm the sun for your frozen heart." |
+| 凍りついた心には太陽を | "I'm the sun for your frozen heart." |
 
 
 
