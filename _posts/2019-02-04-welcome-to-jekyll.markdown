@@ -196,7 +196,7 @@ Even when the snow melts
 
 
 Listen to this song from Youtube:
-[![Subtitle](https://img.youtube.com/vi/TPMQmLakizM/maxresdefault.jpg)](https://www.youtube.com/watch?v=TPMQmLakizM)
+[![Subtitle](https://img.youtube.com/vi/TPMQmLakizM/hqdefault.jpg)](https://www.youtube.com/watch?v=TPMQmLakizM)
 
 
 
