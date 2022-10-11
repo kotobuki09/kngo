@@ -198,7 +198,7 @@ Even when the snow melts
 
 |  Lyrics   |             Translations              |
 |:---------:|:-------------------------------------:|
-|凍りついた心には太陽を| _"I'm the sun for your frozen heart." |
+|凍りついた心には太陽を| -"I'm the sun for your frozen heart." |
 
 
 
