@@ -196,8 +196,8 @@ Even when the snow melts
 
 (DeepL translation)
 
-| Lyrics | Translations|
-|---|---|
+| Lyrics      | Translations                         |
+|-------------|--------------------------------------|
 | 凍りついた心には太陽を | "I'm the sun for your frozen heart." |\
 
 
