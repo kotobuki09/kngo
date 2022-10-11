@@ -118,7 +118,7 @@ I'm sure what I want to give you is something much cooler and hotter\
 It's not pretty, but it's beautiful and unshakable\
 Something that warms the depths of my heart more than the surface\
 There's an ideal, but no matter where I look in my heart\
-But no matter where I look in my heart, I can't find it.\
+But no matter where I look in my heart, I can't find it.
 
 [Pre-Chorus]\
 I want to tell you, but I can't. That absurdity is binding me tight now.\
