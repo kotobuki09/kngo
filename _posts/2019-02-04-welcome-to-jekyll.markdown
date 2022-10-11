@@ -195,6 +195,12 @@ Thinking about this and that\
 Even when the snow melts
 
 
+| Lyrics | Translations|
+|---|---|
+| 「凍りついた心には太陽を」 | "I'm the sun for your frozen heart." |
+
+
+
 Listen to this song from Youtube:
 [![Subtitle](https://img.youtube.com/vi/TPMQmLakizM/hqdefault.jpg)](https://www.youtube.com/watch?v=TPMQmLakizM)
 
