@@ -2,7 +2,7 @@
 layout: post
 title:  "The song that touch my soul - Official Hige Dandism – Subtitle"
 categories: [ Jekyll ]
-image: assets/images/demo1.jpg
+image: assets/images/mpv1.jpg
 ---
 The song that touch my soul - Official Hige Dandism – Subtitle
 
@@ -48,11 +48,7 @@ The song that touch my soul - Official Hige Dandism – Subtitle
 薄着でただそばに立ってても\
 不必要に汗をかいてしまう僕なんかもう\
 どうしたって生温くて君を痛めつけてしまうのだろう\
-You might also like\
-Cry Baby\
-Official髭男dism\
-Unholy\
-Sam Smith & Kim Petras\
+
 [Verse 4]\
 「手のひらが熱いほど心は冷たいんでしょう？」\
 冗談でもそんな残酷なこと言わないでよ\
@@ -146,11 +142,7 @@ Just wait a little longer.
 Even if you just stand by me in light clothing
 I'm sweating unnecessarily
 I'm so lukewarm that it's going to hurt you
-You might also like
-Cry Baby
-Official Bearded Man dism
-Unholy
-Sam Smith & Kim Petras
+
 [Verse 4]
 "The hotter your palms are, the colder your heart is, right?"
 Don't say such a cruel thing, even if you're joking.
