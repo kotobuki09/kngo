@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spy-X-Family 2022"
+title:  "Spy-x-Family 2022"
 categories: [ Jekyll ]
 image: assets/images/Spy.jpg
 ---
