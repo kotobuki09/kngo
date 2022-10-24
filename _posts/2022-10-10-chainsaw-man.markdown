@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chainsaw Man 2022"
+title:  "Chainsaw Man"
 categories: [ Jekyll ]
 image: assets/images/Chainsaw.jpg
 ---
