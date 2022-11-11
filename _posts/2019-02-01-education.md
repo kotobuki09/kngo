@@ -5,8 +5,9 @@ categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---
 https://www.seedr.cc/
-[Seedr.cc][https://www.seedr.cc/]
-[https://www.seedr.cc/]: https://www.seedr.cc/
+
+[Seedr][jekyll-docs] 
+[jekyll-docs]: https://www.seedr.cc/
 
 SEEDR SEEDBOX
 
