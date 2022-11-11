@@ -6,7 +6,7 @@ image: assets/images/3.jpg
 ---
 https://www.seedr.cc/
 
-[Seedr][jekyll-docs] 
+[https://www.seedr.cc/][jekyll-docs] 
 
 [jekyll-docs]: https://www.seedr.cc/
 
