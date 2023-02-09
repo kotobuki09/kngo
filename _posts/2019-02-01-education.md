@@ -2,7 +2,7 @@
 layout: post
 title:  "Seedr: The All-in-One Solution for Online Content - EDUCATION"
 categories: [ Jekyll, tutorial ]
-image: assets/images/3.jpg
+image: assets/images/seedr.png
 ---
 https://www.seedr.cc/
 
