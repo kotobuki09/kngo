@@ -4,9 +4,7 @@ title:  "Seedr: The All-in-One Solution for Online Content - EDUCATION"
 categories: [ Jekyll, tutorial ]
 image: assets/images/seedr.png
 ---
-https://www.seedr.cc/
 
-[https://www.seedr.cc/][jekyll-docs] 
 
 [jekyll-docs]: https://www.seedr.cc/
 
@@ -25,3 +23,5 @@ In addition to its content management capabilities, Seedr also provides a high-s
 Seedr also offers a range of premium plans, providing access to even more features and faster speeds. With the premium plans, you can enjoy unlimited download speeds, a larger storage capacity, and even access to exclusive content.
 
 In conclusion, Seedr is an all-in-one solution for online content, offering an easy way to access, download, and stream all your favorite media. With its fast download speeds, secure connections, and integration with popular platforms, Seedr is the perfect choice for anyone looking to manage their online content in one place.
+
+[https://www.seedr.cc/][jekyll-docs] 
